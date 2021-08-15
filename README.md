@@ -1,4 +1,5 @@
 -Teardown Modder interested in level/map design
+-Reach me on the teardown official discord
 
 <!---
 OffensivePDF/OffensivePDF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
